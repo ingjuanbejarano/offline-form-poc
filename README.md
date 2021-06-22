@@ -17,7 +17,7 @@ yarn install
 
 ## Usage
 
-Use this command to excecute the Expo developer environment:
+Use this command to execute the Expo developer environment:
 
 ```bash
 expo start
